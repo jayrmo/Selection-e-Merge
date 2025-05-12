@@ -17,17 +17,18 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 - `matplotlib` (opcional, para gerar gráficos comparativos)
 
 
-0. Estrutura de pastas
-   ```bash
-  Selection e Merge/
-        ├── .venv/
-        ├── Selection e Merge/
-        │   ├── __pycache__/
-        │   ├── graficos/
-        │   ├── main.py
-        │   ├── merge.py
-        │   ├── selection.py
-        │   ├── utils.py
+
+## 📁 Estrutura de Pastas
+
+Selection e Merge/
+    ├── .venv/
+    ├── Selection e Merge/
+    │   ├── __pycache__/
+    │   ├── graficos/
+    │   ├── main.py
+    │   ├── merge.py
+    │   ├── selection.py
+    │   ├── utils.py
 
 ---
 
