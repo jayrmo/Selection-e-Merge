@@ -16,6 +16,19 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 - Biblioteca `time` (para medir tempo de execução)
 - `matplotlib` (opcional, para gerar gráficos comparativos)
 
+
+## Estrutura de pastas
+
+Selection e Merge/
+├── .venv/
+├── Selection e Merge/
+│   ├── __pycache__/
+│   ├── graficos/
+│   ├── main.py
+│   ├── merge.py
+│   ├── selection.py
+│   ├── utils.py
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
@@ -58,6 +71,7 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 
 - Tempo de execução para cada algoritmo e cada tamanho de lista.
 - (Opcional) Gráfico de comparação entre os tempos.
+
 
 
 
