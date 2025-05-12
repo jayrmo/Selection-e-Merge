@@ -19,16 +19,17 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 
 
 ## 📁 Estrutura de Pastas
-
-Selection e Merge/
-    ├── .venv/
-    ├── Selection e Merge/
-    │   ├── __pycache__/
-    │   ├── graficos/
-    │   ├── main.py
-    │   ├── merge.py
-    │   ├── selection.py
-    │   ├── utils.py
+    ```
+    Selection e Merge/
+        ├── .venv/
+        ├── Selection e Merge/
+        │   ├── __pycache__/
+        │   ├── graficos/
+        │   ├── main.py
+        │   ├── merge.py
+        │   ├── selection.py
+        │   ├── utils.py
+    ```
 
 ---
 
