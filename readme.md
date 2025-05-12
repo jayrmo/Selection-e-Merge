@@ -34,13 +34,13 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 
 
 
-
 ---
 
 
 3. Instale as dependências:
    ```bash
-   pip install matplotlib
+   pip install -r requirements.txt
+
 
 
 ---
