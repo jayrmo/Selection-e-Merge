@@ -26,8 +26,6 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 
 ---
 
-### ✅ **Seção 2. (Opcional) Crie um ambiente virtual**
-```markdown
 2. (Opcional) Crie um ambiente virtual:
    ```bash
    python -m venv venv
@@ -39,19 +37,14 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 
 ---
 
-### ✅ **Seção 3. Instale as dependências**
-```markdown
+
 3. Instale as dependências:
    ```bash
    pip install matplotlib
 
 
-
-
 ---
 
-### ✅ **Seção 4. Execute o script principal**
-```markdown
 4. Execute o script principal:
    ```bash
    python main.py
@@ -60,8 +53,7 @@ Este projeto tem como objetivo comparar o desempenho dos algoritmos de ordenaç�
 
 ---
 
-### ✅ **Seção: 📊 Saída Esperada**
-```markdown
+
 ## 📊 Saída Esperada
 
 - Tempo de execução para cada algoritmo e cada tamanho de lista.
